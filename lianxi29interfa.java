@@ -1,0 +1,6 @@
+interface Platform{
+	
+	void supportPlatform();
+}
+
+
